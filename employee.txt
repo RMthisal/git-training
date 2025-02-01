@@ -2,3 +2,5 @@ Thisal
 Rathnayaka
 Lakhana
 branch
+from feature2
+ feature/two
